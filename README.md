@@ -10,7 +10,7 @@ This project adheres to the [Node code of conduct](https://github.com/nodejs/nod
 
 - Code reviews are only provided for public repositories.
 - Code reviews are only provided for pull requests; at this time, this project does not provide reviews of projects as a whole.
-- Your pull request description should, *at a minimum*, provide:
+- Your [pull request description](./docs/pull-request.md) should, *at a minimum*, provide:
   - A brief description of the problem being solved
   - A brief summary of the solution included in the pull request
   - Clear steps for the reviewer to see the code in action
