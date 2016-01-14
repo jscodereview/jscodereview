@@ -33,6 +33,10 @@ Remember, this is about learning -- for you and for the submitter.
 - Focus on providing guidance, not instructions.
 - If a pull request is too large or otherwise difficult to follow, reach out to the submitter directly and let them know. You may leave a comment on the pull request as well, but your first step should be to contact the submitter.
 
+## What if I just need some help?
+
+That's cool too! Often the easiest way to help is to respond to some code that you have that isn't working, so feel free to submit a pull request for review even if it's not quite working. 
+
 ## I want to join the project
 
 For now, participation in the project is by invitation. Please [email me](mailto:rmurphey@gmail.com) if you are interested in participating as a submitter or a reviewer.
