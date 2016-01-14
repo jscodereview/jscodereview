@@ -21,7 +21,7 @@ This project adheres to the [Node code of conduct](https://github.com/nodejs/nod
     - any questions you have about your approach
 - Once a reviewer indicates they have started reviewing your pull request, feel free to reach out to them directly on the jscodereview Slack.
 
-To request a review, post a link to your pull request in one or more relevant channels in the jscodereview Slack.
+To request a review, post a link to your pull request in the \#general channel in the jscodereview Slack.
 
 ## Guidelines for providing code review
 
